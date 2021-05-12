@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620536404614",
+    "project_id": "ihaveit-445a3",
+    "storage_bucket": "ihaveit-445a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620536404614:android:9723e50176b351de998f07",
+        "android_client_info": {
+          "package_name": "com.example.ihaveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620536404614-3ba321nlj82tvn522ntno931pnaa33pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UEDU8QD-DDPJ-N9s5I8pmX6Q4T1ih7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620536404614-3ba321nlj82tvn522ntno931pnaa33pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
